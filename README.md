@@ -1,5 +1,5 @@
 # AdventOfCode_2020
-Advent of Code Solutions to all Puzzles
+Advent of Code Solutions in Haskell to all Puzzles
 
 All my solutions are stored in a single source file and related parsers in a separate file.
 
